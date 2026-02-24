@@ -1,4 +1,4 @@
 # My homepage
 ## 勉強中
-- PLC
+- PLC(/plc/plc_info)
 - FPGA
