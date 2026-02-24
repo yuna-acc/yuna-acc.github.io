@@ -1,2 +1,4 @@
 # My homepage
-準備中．．
+## 勉強中
+- PLC
+- FPGA
